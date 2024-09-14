@@ -174,6 +174,9 @@ As part of our data analysis setup, we successfully installed and configured Apa
 - **Environment Variables**: We set environment variables to link our installation paths for Java and Spark, integrating these components seamlessly into our system.
 - **Library Paths**: We added necessary library paths to Python’s system path, facilitating direct imports and usage of Spark functionalities.
 - **Spark Session**: We initiated a Spark session and verified its functionality through a test DataFrame, confirming the operational status of Spark within our environment.
+![image](https://github.com/user-attachments/assets/d9fc9161-3949-43ed-acba-b2cb9ae000d9)
+
+### Sentiment Analysis of Hotel Reviews: Machine Learning Model Report ###
 
 ![Snipaste_2024-09-14_10-49-23](https://github.com/user-attachments/assets/104f6206-6fba-446f-9e3d-48e8e1ac42e1)
 
